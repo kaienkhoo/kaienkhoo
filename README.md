@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+
+My name is Kai En a 2nd year Computer Engineering student from Nanyang Technological University.
+
+Looking forward to learn more exciting stuff in this field !
 
 <!--
 **kaienkhoo/kaienkhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
