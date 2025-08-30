@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hello World !  🌎
 
 My name is Kai En a 2nd year Computer Engineering student from Nanyang Technological University.
 
