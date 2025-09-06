@@ -28,4 +28,4 @@ Currently exploring **machine learning and web/app development**.
 
 ---
 
-<center>⭐️ #“Code is like humor. When you have to explain it, it’s bad.”#</center>
+<h3 align="center">⭐️ “Code is like humor. When you have to explain it, it’s bad.” ⭐️</h3>
