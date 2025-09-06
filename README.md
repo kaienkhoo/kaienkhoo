@@ -1,20 +1,31 @@
-## Hello World !  🌎
+# Hello World! 🌎
 
-My name is Kai En a 2nd year Computer Engineering student from Nanyang Technological University.
+Hi, I'm **Kai En** 👋  
+I am a 3rd year **Computer Engineering** student at **Nanyang Technological University**.  
+Currently exploring **machine learning and web/app development**.
 
-Looking forward to learn more exciting stuff in this field !
+---
 
-<!--
-**kaienkhoo/kaienkhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I am Up To
+- Working on RAG applications and web development projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** C, Java, Python, JavaScript, HTML, CSS  
+- **Tools & Platforms:** Git, GitHub, Linux, VS Code  
+- **Areas of Interest:** Web/App Development  
+
+---
+
+## 📈 GitHub Highlights 
+- Actively building personal and academic projects to grow my skillset  
+
+---
+
+## 📫 Connect With Me
+- **Email:** kaien.khoo@gmail.com
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
