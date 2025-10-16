@@ -12,7 +12,7 @@ Currently exploring **machine learning and web/app development**.
 ---
 
 ## 🛠️  Skills & Tools
-- **Languages:** C, Java, Python, JavaScript, HTML, CSS  
+- **Languages:** Java, Python, JavaScript, HTML, CSS  
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code  
 - **Areas of Interest:** Web/App Development  
 
