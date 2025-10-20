@@ -2,7 +2,7 @@
 
 Hi, I am **Kai En** 👋🏻 - but you can just call me **Kai** !   
 I am a 3rd year **Computer Engineering** student at **Nanyang Technological University**.  
-Currently exploring **machine learning and web/app development**.
+Currently exploring **web/app development**.
 
 ---
 
