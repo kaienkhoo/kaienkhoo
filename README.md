@@ -6,19 +6,19 @@ Currently exploring **web/app development**.
 
 ---
 
-## 🚀  What I am up to
+## What I am up to
 - Working on RAG applications and web development projects  
 
 ---
 
-## 🛠️  Skills & Tools
+## Skills & Tools
 - **Languages:** Java, Python, JavaScript, HTML, CSS  
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code  
 - **Areas of Interest:** Web/App Development  
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - **Email:** kaien.khoo@gmail.com
 
 ---
